@@ -1,0 +1,10 @@
+body{
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#canvas{
+    background-color: #346b31;
+    border: 10px ridge white;
+}
